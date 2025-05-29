@@ -1,0 +1,2 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_PC9_5\1_PC9_5\bin\Debug\1_PC9_5.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_PC9_5\1_PC9_5\obj\Debug\1_PC9_5.csprojResolveAssemblyReference.cache
