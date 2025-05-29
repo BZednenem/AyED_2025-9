@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\bin\Debug\1_PC9_10.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\bin\Debug\1_PC9_10.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\bin\Debug\1_PC9_10.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\obj\Debug\1_PC9_10.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\obj\Debug\1_PC9_10.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\1_PC9_7\1_PC9_10\1_PC9_10\obj\Debug\1_PC9_10.pdb
