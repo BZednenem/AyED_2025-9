@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\0_PC9_10\0_PC9_10\bin\Debug\0_PC9_10.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\0_PC9_10\0_PC9_10\bin\Debug\0_PC9_10.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\0_PC9_10\0_PC9_10\bin\Debug\0_PC9_10.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\0_PC9_10\0_PC9_10\obj\Debug\0_PC9_10.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\0_PC9_10\0_PC9_10\obj\Debug\0_PC9_10.pdb
