@@ -1,0 +1,14 @@
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\bin\Debug\net8.0\Simulacro.exe
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\bin\Debug\net8.0\Simulacro.deps.json
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\bin\Debug\net8.0\Simulacro.runtimeconfig.json
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\bin\Debug\net8.0\Simulacro.dll
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\bin\Debug\net8.0\Simulacro.pdb
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.AssemblyInfoInputs.cache
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.AssemblyInfo.cs
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.csproj.CoreCompileInputs.cache
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.dll
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\refint\Simulacro.dll
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.pdb
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\Simulacro.genruntimeconfig.cache
+C:\Users\glezz\Downloads\C#\Simulacro\Simulacro\obj\Debug\net8.0\ref\Simulacro.dll
