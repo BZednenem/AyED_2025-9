@@ -1,0 +1,14 @@
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\bin\Debug\net8.0\2_PC9_10.exe
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\bin\Debug\net8.0\2_PC9_10.deps.json
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\bin\Debug\net8.0\2_PC9_10.runtimeconfig.json
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\bin\Debug\net8.0\2_PC9_10.dll
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\bin\Debug\net8.0\2_PC9_10.pdb
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.AssemblyInfoInputs.cache
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.AssemblyInfo.cs
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.csproj.CoreCompileInputs.cache
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.dll
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\refint\2_PC9_10.dll
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.pdb
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\2_PC9_10.genruntimeconfig.cache
+C:\Users\glezz\Downloads\C#\2_PC9_10\2_PC9_10\obj\Debug\net8.0\ref\2_PC9_10.dll
