@@ -1,0 +1,8 @@
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\bin\Debug\2_PC9_1.exe.config
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\bin\Debug\2_PC9_1.exe
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\bin\Debug\2_PC9_1.pdb
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\obj\Debug\2_PC9_1.csproj.AssemblyReference.cache
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\obj\Debug\2_PC9_1.csproj.CoreCompileInputs.cache
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\obj\Debug\2_PC9_1.exe
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\obj\Debug\2_PC9_1.pdb
+C:\Users\Bauty\Downloads\T.P Taller\2_PC9_1\obj\Debug\2_PC9_1.exe.config
