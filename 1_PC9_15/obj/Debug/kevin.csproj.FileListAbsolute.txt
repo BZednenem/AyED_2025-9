@@ -1,8 +1,0 @@
-C:\Users\Bauty\Downloads\T.P Taller\kevin\bin\Debug\kevin.exe.config
-C:\Users\Bauty\Downloads\T.P Taller\kevin\bin\Debug\kevin.exe
-C:\Users\Bauty\Downloads\T.P Taller\kevin\bin\Debug\kevin.pdb
-C:\Users\Bauty\Downloads\T.P Taller\kevin\obj\Debug\kevin.csproj.AssemblyReference.cache
-C:\Users\Bauty\Downloads\T.P Taller\kevin\obj\Debug\kevin.csproj.CoreCompileInputs.cache
-C:\Users\Bauty\Downloads\T.P Taller\kevin\obj\Debug\kevin.exe
-C:\Users\Bauty\Downloads\T.P Taller\kevin\obj\Debug\kevin.pdb
-C:\Users\Bauty\Downloads\T.P Taller\kevin\obj\Debug\kevin.exe.config
