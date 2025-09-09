@@ -1,0 +1,8 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC9_3\3_PC9_3\bin\Debug\3_PC9_3.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC9_3\3_PC9_3\obj\Debug\3_PC9_3.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\bin\Debug\3_PC9_3.exe.config
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\obj\Debug\3_PC9_3.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\bin\Debug\3_PC9_3.exe
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\bin\Debug\3_PC9_3.pdb
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\obj\Debug\3_PC9_3.exe
+C:\Users\alumno.ET37\Downloads\3_PC9_3 FALTA TERMINAR\3_PC9_3\obj\Debug\3_PC9_3.pdb
