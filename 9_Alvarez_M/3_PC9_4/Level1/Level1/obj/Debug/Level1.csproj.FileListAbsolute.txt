@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\bin\Debug\Level1.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\bin\Debug\Level1.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\bin\Debug\Level1.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\obj\Debug\Level1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\obj\Debug\Level1.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\3_PC9_4\Level1\Level1\obj\Debug\Level1.pdb
